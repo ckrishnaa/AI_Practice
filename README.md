@@ -1,2 +1,2 @@
-# DevOps
-This is practise repo for DevOps
+# Agenti AI
+This is practise repo for AI_Practice
