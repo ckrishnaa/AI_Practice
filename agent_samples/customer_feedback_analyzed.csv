@@ -1,0 +1,65 @@
+ReviewID,CustomerName,ReviewText,Sentiment,Priority,DraftedReply
+1,Alice Smith,The product arrived broken and customer service hasn't replied to my emails!,negative,high,"Dear Alice,
+
+I’m truly sorry to hear that your product arrived damaged and that you haven’t received a response from our team. We’ll investigate this immediately and arrange a replacement or refund as soon as possible. Thank you for bringing this to our attention, and we appreciate your patience while we resolve the issue.
+
+Sincerely,
+Customer Support"
+2,Bob Jones,Absolutely love this! It saved me hours of work. Highly recommend.,positive,low,"Dear Bob,
+
+Thank you for sharing your positive experience! We're thrilled to hear that our product has saved you hours of work and that you recommend it to others. Your feedback motivates us to keep delivering reliable solutions.
+
+Best regards,
+Customer Support Team"
+3,Charlie Brown,It works fine I guess but the shipping took a bit longer than expected.,negative,medium,"Dear Charlie,
+Thank you for sharing your experience. We’re glad the product met your expectations, and we apologize for the shipping delay. Please let us know if there’s anything else we can do to improve your experience.
+Best regards,
+Customer Support Team"
+4,Diana Prince,I was charged twice on my credit card for a single item. Fix this immediately!,negative,high,"Dear Diana,
+
+I’m very sorry to hear that you were charged twice for the same item. This is not the experience we aim to provide, and I’ll personally look into it right away. Could you please share the order number and the date of the transaction so we can correct the duplicate charge and issue a refund promptly? Thank you for bringing this to our attention, and we appreciate your patience while we resolve it.
+
+Sincerely,
+[Your Name]
+Customer Support"
+5,Evan Wright,The software keeps crashing every time I try to export my monthly reports.,negative,high,"Dear Evan,
+
+I’m sorry to hear that the software keeps crashing when you export your monthly reports. Our technical team is already looking into this issue and will work to resolve it as quickly as possible. In the meantime, please try clearing your cache or using a different browser; if the problem persists, let us know and we’ll provide a direct workaround.
+
+Thank you for bringing this to our attention, and we appreciate your patience.
+
+Best regards,
+[Your Name]
+Customer Support"
+6,Fiona Gallagher,Is there a dark mode option available for the desktop app interface?,neutral,low,"Dear Fiona,
+
+Thank you for reaching out. We currently do not have a dark mode for the desktop app, but we appreciate your suggestion and will forward it to our product team for consideration.
+
+Best regards,
+Customer Support"
+7,George Costanza,Extremely disappointed. The material feels incredibly cheap for this price.,negative,high,"Dear George,
+
+Thank you for sharing your feedback. I’m truly sorry to hear that the material quality did not meet your expectations. We take product quality very seriously and would like to investigate this further. Could you please provide the order number and any photos of the item? Once we have that information, we’ll arrange a replacement or refund at no additional cost to you.
+
+Thank you for giving us the opportunity to make this right.
+
+Best regards,
+[Your Name]"
+8,Hannah Abbott,The onboarding tutorial was very clear and I got set up in under 5 minutes.,positive,low,"Hi Hannah,
+
+Thank you for sharing your positive experience! We're thrilled to hear that the onboarding tutorial was clear and helped you get set up quickly. If you have any further questions or need assistance, feel free to reach out.
+
+Best regards,
+Customer Support Team"
+9,Ian Malcolm,Your system works fine most days but it went completely offline during our peak hours.,negative,high,"Dear Ian,
+
+Thank you for bringing this to our attention. I’m sorry to hear that our system went offline during your peak hours – that’s certainly not the experience we aim to provide. Could you please share the date, time, and any error messages you observed? We’ll investigate immediately and keep you updated on the resolution.
+
+Thank you for your patience.
+
+Best regards,
+[Your Name]"
+10,Julia Roberts,It's okay. Nothing special but it gets the job done for my basic needs.,neutral,medium,"Dear Julia,
+Thank you for sharing your thoughts. We’re glad to hear the product meets your basic needs and appreciate your feedback as we continue to improve. If there’s anything else we can do to enhance your experience, please let us know.
+Best regards,
+Customer Support Team"
